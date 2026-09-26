@@ -82,9 +82,6 @@ I'm particularly interested in cloud automation, infrastructure as code, DevSecO
 
 🔨 What I Like Building
 
-Area
-
-Focus
 
 ☁️ Cloud Infrastructure
 
