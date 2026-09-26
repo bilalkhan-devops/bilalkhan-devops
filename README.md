@@ -80,7 +80,7 @@ AWS DevOps
 
 I'm particularly interested in cloud automation, infrastructure as code, DevSecOps, FinOps, and AI-assisted DevOps workflows.
 
-🔨 What I Like Building
+🔨 What I Like Building :-
 
 
 ☁️ Cloud Infrastructure
@@ -115,7 +115,7 @@ Security integrated into delivery pipelines
 
 Cloud cost awareness and optimization
 
-🎯 Current Goals
+🎯 Current Goals :-
 
 🚀 Build production-ready DevOps projects
 
